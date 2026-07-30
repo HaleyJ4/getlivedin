@@ -38,3 +38,48 @@ $25 per address · No subscription
 </main>
 );
 }
+<section className="mx-auto max-w-6xl px-6 py-24">
+<div className="grid gap-8 md:grid-cols-3">
+
+<div className="rounded-3xl bg-white p-8 shadow-sm">
+<p className="text-sm font-medium uppercase tracking-widest text-slate-500">
+01
+</p>
+<h2 className="mt-4 text-2xl font-semibold">
+What does it feel like there?
+</h2>
+<p className="mt-4 text-slate-600">
+Go beyond the listing. Understand the street, the neighborhood,
+daily life, noise, walkability, nearby amenities, and what it
+actually feels like to live there.
+</p>
+</div>
+
+<div className="rounded-3xl bg-white p-8 shadow-sm">
+<p className="text-sm font-medium uppercase tracking-widest text-slate-500">
+02
+</p>
+<h2 className="mt-4 text-2xl font-semibold">
+What does it actually cost?
+</h2>
+<p className="mt-4 text-slate-600">
+See the real ownership picture: mortgage costs, taxes, insurance,
+utilities, closing costs, and the expenses listings rarely mention.
+</p>
+</div>
+
+<div className="rounded-3xl bg-white p-8 shadow-sm">
+<p className="text-sm font-medium uppercase tracking-widest text-slate-500">
+03
+</p>
+<h2 className="mt-4 text-2xl font-semibold">
+How do I win the offer?
+</h2>
+<p className="mt-4 text-slate-600">
+Understand the market, competition, pricing strategy, and how to
+make a stronger offer without overpaying.
+</p>
+</div>
+
+</div>
+</section>
