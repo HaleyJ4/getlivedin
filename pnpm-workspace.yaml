@@ -1,5 +1,5 @@
 YAML
 
 packages:
-  -apps/*
-  -packages/*
+  - "apps/*"
+  - "packages/*"
