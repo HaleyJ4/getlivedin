@@ -35,9 +35,7 @@ Generate Report
 $25 per address · No subscription
 </p>
 </section>
-</main>
-);
-}
+
 <section className="mx-auto max-w-6xl px-6 py-24">
 <div className="grid gap-8 md:grid-cols-3">
 
@@ -83,3 +81,6 @@ make a stronger offer without overpaying.
 
 </div>
 </section>
+</main>
+);
+}
